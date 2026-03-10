@@ -1,5 +1,4 @@
-# Pro-Mine: A Progressive Hard Negative Mining Framework for Cross-Modal Drone Image-Text Retrieval
-
+# Pro-Mine
 [![Paper](https://img.shields.io/badge/Paper-Coming_Soon-blue.svg)](link_to_paper)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
