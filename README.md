@@ -1,0 +1,1 @@
+# Pro-Mine-A-Progressive-Hard-Negative-Mining-Framework-for-Cross-Modal-Drone-Image-Text-Retrieval
